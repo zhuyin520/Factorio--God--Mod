@@ -1,0 +1,19 @@
+{
+  "name": "ZY-God",               
+  "version": "0.0.8",            
+  "factorio_version": "1.1",     
+  "title": "ZY-God",              
+  "author": " ZY",               
+  "description": "SE-Right button = magician's teleportation skill, left button = violent thunder (causes area damage)",      
+  "dependencies": [              
+    "base >= 1.1.0"
+  ]
+}
+  
+
+
+
+
+  
+	
+	
