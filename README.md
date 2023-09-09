@@ -6,18 +6,18 @@ Allows [        ](                                  ) to be built in space.
 
 ---------------------------------------------------------------------------------------------------  
 
-#  Ctrl + right mouse button = magician's teleportation skill(Teleportation)
-#  Ctrl + left mouse button = Violent lightning strikes (Thunder，causes area damage9x9 zone)
-#  Ctrl + middle mouse button =Teleportation array animation, all destroyed
+#  right mouse button = magician's teleportation skill(Teleportation)
+#  left mouse button = Violent lightning strikes (Thunder，causes area damage9x9 zone)
+#  middle mouse button =Teleportation array animation, all destroyed
 
 ---------------------------------------------------------------------------------------------------  
 
 一、What is this mod about！！！💟
   
-   *  Ctrl + right mouse button, the character teleports to the mouse position instantly, supports SE
+   *  right mouse button, the character teleports to the mouse position instantly, supports SE
    *  When teleporting, a star animation appears on the bottom of the character's feet    
-   *  Ctrl+mouse in the middle, character foot sole, teleportation array animation, all destroyed
-   *  Ctrl + left mouse button, the character releases a thunder attack, supports SE           （next version）
+   *  mouse in the middle, character foot sole, teleportation array animation, all destroyed
+   *  left mouse button, the character releases a thunder attack, supports SE           （next version）
    *  Detailed comments in Chinese, you can download and take a look at the code
    * When clicking on the upper right map perspective, you can teleport on the planet, where you are a god.
 
@@ -32,28 +32,6 @@ Allows [        ](                                  ) to be built in space.
    *  You can do whatever you want, but
    *  If you want to do a fork to add some functionality, I prefer to make a pull request to GitHub, or you can contact me in the comments to discuss.
    *  If you use my voice or picture, please use active link to add attribute.
----------------------------------------------------------------------------------------------------  
-
-English
-
-Version: 0.0.2
-
-Date: 2023-09-2
-
-Bugfixes:
-
-1，Fixed the issue of character teleportation in satellite view (if not prohibited, the screen may shake because it is not on a curved surface), as sometimes characters do not exist in satellite view.
-
-Update function:
-
-1，When clicking on the upper right map perspective, you can teleport on the planet, where you are a god.
-
-2，During transmission, star animation will appear on the bottom of the character's feet
-
-3， Ctrl+mouse in the middle, character foot sole, teleportation array animation, all destroye
-
-4， Detailed Chinese annotations, you can download and take a look
-
 ---------------------------------------------------------------------------------------------------  
 
 Chinese
