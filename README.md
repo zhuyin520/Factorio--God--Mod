@@ -10,7 +10,7 @@ Allows [        ](                                  ) to be built in space.
 #  left mouse button=thunder, causing 9x9 area damage,supports SE。
 #  middle mouse button="Off, on, lightning"。
 
-Allows you to teleport the player character with a mouse click.
+#  Allows you to teleport the player character with a mouse click.
 
 ---------------------------------------------------------------------------------------------------  
 
