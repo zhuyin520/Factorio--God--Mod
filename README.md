@@ -6,9 +6,11 @@ Allows [        ](                                  ) to be built in space.
 
 ---------------------------------------------------------------------------------------------------  
 
-#  Right mouse button=teleportation,Like a magician。
+#  Right mouse button=Player character（teleportation）。
 #  left mouse button=thunder, causing 9x9 area damage,supports SE。
-#  middle mouse button=disable MODS。
+#  middle mouse button="Off, on, lightning"。
+
+Allows you to teleport the player character with a mouse click.
 
 ---------------------------------------------------------------------------------------------------  
 
