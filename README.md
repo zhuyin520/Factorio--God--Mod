@@ -6,9 +6,9 @@ Allows [        ](                                  ) to be built in space.
 
 ---------------------------------------------------------------------------------------------------  
 
-#  Right mouse button=teleportation,
-#  left mouse button=thunder, causing 9x9 area damage,supports SE
-#  middle mouse button=disable MODS，
+#  Right mouse button=teleportation,Like a magician。
+#  left mouse button=thunder, causing 9x9 area damage,supports SE。
+#  middle mouse button=disable MODS。
 
 ---------------------------------------------------------------------------------------------------  
 
