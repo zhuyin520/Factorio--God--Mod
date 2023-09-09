@@ -6,9 +6,9 @@ Allows [        ](                                  ) to be built in space.
 
 ---------------------------------------------------------------------------------------------------  
 
-#  right mouse button = magician's teleportation skill(Teleportation)
-#  left mouse button = Violent lightning strikes (Thunder，causes area damage9x9 zone)
-#  middle mouse button =Teleportation array animation, all destroyed
+#  Right mouse button=teleportation,
+#  left mouse button=thunder, causing 9x9 area damage,supports SE
+#  middle mouse button=disable MODS，
 
 ---------------------------------------------------------------------------------------------------  
 
