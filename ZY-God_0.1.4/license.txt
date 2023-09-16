@@ -1,0 +1,34 @@
+MOD目录结构：
+ZY-God/
+├──goigdcht                 --传送阵图片相关。
+         ├── erfte_ajesty   --传送阵图片。
+         └── zy                 --传送阵注册到子组。
+├──graphics                          --雷电图片相关。
+         ├── atsword_majesty   --雷电图片。
+         ├── zy                         --顶级组图片。
+         ├── zyy                       --传送注册到子组。
+         └── zyyy                      --雷电注册到子组。
+├──locale                                --翻译相关。
+         ├── en                            --英文。
+         └── zh-CN                      --中文。
+├──potyhsdut
+         ├── animation_util.lua    --包含雷电动画配置信息。
+         ├── entity.lua                 --定义雷电动画，关联雷电图片。
+         ├── mm_item.lua           --把雷电动画定义成胶囊。
+         └── recipe.lua                --雷电胶囊定义物品。
+├──prototypes
+         ├── animation_util.lua    --包含传送阵动画配置信息。
+         ├── entity.lua                 --定义传送阵动画，关联传送阵图片。
+         ├── item.lua                   --创造顶级组(父组)，哪一个为子组，创建实体碰撞边界参数。
+         ├── mm_item.lua           --把传送阵动画定义成胶囊。
+         └── recipe.lua                --传送阵胶囊定义物品。
+├──sounds                                       --雷电音乐。
+├──control.lua                                  --鼠标中键=启用，禁用，狂雷和传送阵。加关联左键和右键。
+├──custom_events.lua                      --鼠标左键=狂雷。
+├──custom_exjmuyhi.lua                  --鼠标右键=瞬移。
+├──data.lua                                     --关联文件让她像date.lua中一样运行代码。
+├──info.json                                    --作者名和运行的依赖。
+├──inputs.lua                                  --自定义鼠标名称。
+├──license.txt                                  --MOD目录结构。
+├──README.md                             
+└──thumbnail.png                          --MOD显示的图片。
